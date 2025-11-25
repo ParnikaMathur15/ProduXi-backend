@@ -1,0 +1,115 @@
+#### 🔴 Persona 1: Really Bad Day (Expected: 30–40)
+
+```python
+{
+  "focus_level": 1,
+  "mood_level": 2,
+  "overthinking_level": 3,     
+  "stress_level": 4,
+  "procrastination_level": 3,   
+  "sleep_hours": 4.0,
+  "sleep_quality": 2,
+  "nap_taken": 0,
+  "tasks_planned": 5,
+  "tasks_done": 1,
+  "distractions": 3,
+  "exercise_level": 0,
+  "hydration_liters": 0.8,
+  "junk_food_intake": 3,
+  "outside_food": 1,
+  "body_energy": 1,
+  "screen_time": 8.0,
+  "doom_scrolling_time": 3.5,
+  "productivity_yesterday": 50.0
+}
+```
+
+---
+
+#### 🟡 Persona 2: Decent Day With Minor Negatives (Expected: 55–65)
+
+```python
+{
+  "focus_level": 3,
+  "mood_level": 3,
+  "overthinking_level": 2,
+  "stress_level": 3,
+  "procrastination_level": 2,
+  "sleep_hours": 6.0,
+  "sleep_quality": 3,
+  "nap_taken": 1,
+  "tasks_planned": 6,
+  "tasks_done": 4,
+  "distractions": 1,
+  "exercise_level": 1,
+  "hydration_liters": 1.8,
+  "junk_food_intake": 1,
+  "outside_food": 0,
+  "body_energy": 3,
+  "screen_time": 5.5,
+  "doom_scrolling_time": 1.2,
+  "productivity_yesterday": 62.0
+}
+```
+
+---
+
+#### 🟢 Persona 3: Strong Day (Expected: 75–85)
+
+```python
+{
+  "focus_level": 4,
+  "mood_level": 4,
+  "overthinking_level": 1,
+  "stress_level": 2,
+  "procrastination_level": 1,
+  "sleep_hours": 7.0,
+  "sleep_quality": 4,
+  "nap_taken": 1,
+  "tasks_planned": 5,
+  "tasks_done": 5,
+  "distractions": 0,
+  "exercise_level": 2,
+  "hydration_liters": 2.8,
+  "junk_food_intake": 0,
+  "outside_food": 0,
+  "body_energy": 4,
+  "screen_time": 3.5,
+  "doom_scrolling_time": 0.8,
+  "productivity_yesterday": 78.0
+}
+```
+
+---
+
+#### 🔵 Persona 4: Perfect Ideal Day (Expected: 95–100)
+
+(Same as the one you already tested)
+
+---
+
+#### ⚪ Persona 5: Medium Inputs but Yesterday Was Excellent (Expected: 60–70)
+
+```python
+{
+  "focus_level": 3,
+  "mood_level": 3,
+  "overthinking_level": 2,
+  "stress_level": 3,
+  "procrastination_level": 2,
+  "sleep_hours": 6.0,
+  "sleep_quality": 3,
+  "nap_taken": 0,
+  "tasks_planned": 5,
+  "tasks_done": 3,
+  "distractions": 2,
+  "exercise_level": 1,
+  "hydration_liters": 1.5,
+  "junk_food_intake": 1,
+  "outside_food": 1,
+  "body_energy": 3,
+  "screen_time": 4.5,
+  "doom_scrolling_time": 1.0,
+  "productivity_yesterday": 90.0
+}
+```

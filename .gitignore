@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info
+dist/
+build/
+
+# Virtual env
+venv/
+.env
+.env.*
+serviceAccountKey.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+venv/
+serviceAccountKey.json
+__pycache__/
+
+# ignore notebooks and heavy folders
+*.ipynb
+data/
+ml/
+
+# but allow .pkl files 
+!*.pkl
+
