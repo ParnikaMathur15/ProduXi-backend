@@ -23,9 +23,7 @@ __pycache__/
 *.ipynb
 .ipynb_checkpoints/
 data/
-ml/
-
-# but allow .pkl files 
+ml/*
 !ml/*.pkl
 
 # Ignore temp/test files
