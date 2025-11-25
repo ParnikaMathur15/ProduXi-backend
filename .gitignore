@@ -26,7 +26,7 @@ data/
 ml/
 
 # but allow .pkl files 
-!*.pkl
+!ml/*.pkl
 
 # Ignore temp/test files
 test.txt
