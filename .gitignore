@@ -21,9 +21,13 @@ __pycache__/
 
 # ignore notebooks and heavy folders
 *.ipynb
+.ipynb_checkpoints/
 data/
 ml/
 
 # but allow .pkl files 
 !*.pkl
+
+# Ignore temp/test files
+test.txt
 
